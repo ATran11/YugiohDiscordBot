@@ -1,6 +1,6 @@
 # YugiohDiscordBot
 ## Description
-A Discord Bot I made for my friends for fun to help with our YuGiOh discord channel:
+A Discord Bot I made for my friends for fun to help with our Yu-Gi-Oh discord channel:
 * Tells Jokes
 * List current pack set and prizing for tournaments
 * Assigns roles
