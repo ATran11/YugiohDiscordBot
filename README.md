@@ -5,7 +5,8 @@ A Discord Bot I made for my friends for fun to help with our Yu-Gi-Oh discord ch
 * List current pack set and prizing for tournaments
 * Assigns roles
 * Suggests rock, paper, scissors choices
-## Technology used 
+## Technology used
+* React
 * Git Bash
 * VS Code
 * Discord
